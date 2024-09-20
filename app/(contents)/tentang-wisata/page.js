@@ -15,7 +15,7 @@ export default function page() {
           <h1 className="text-4xl font-bold">Bukit Jaddih</h1>
         </figcaption>
       </figure>
-      <article>
+      <article className="space-y-4">
         <Text />
       </article>
     </section>
