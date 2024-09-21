@@ -46,56 +46,6 @@ export default function page() {
       </li>
       <li>
         <Image
-          src="/img/img-5.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
-          src="/img/img-6.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
-          src="/img/img-7.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
-          src="/img/img-8.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
-          src="/img/img-9.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
           src="/img/img-10.JPG"
           alt="Image"
           width={200}
@@ -157,16 +107,6 @@ export default function page() {
       <li>
         <Image
           src="/img/img-16.JPG"
-          alt="Image"
-          width={200}
-          height={200}
-          className="w-full"
-          priority
-        />
-      </li>
-      <li>
-        <Image
-          src="/img/img-17.JPG"
           alt="Image"
           width={200}
           height={200}
