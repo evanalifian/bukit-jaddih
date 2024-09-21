@@ -20,7 +20,7 @@ export default function HeaderNav() {
         <Link href="/" className="text-lg font-medium md:text-xl">
           LOGO
         </Link>
-        <ul class="flex gap-x-6 md:gap-x-12">
+        <ul className="flex gap-x-6 md:gap-x-12">
           <li>
             <Link
               href="/tentang-wisata"
